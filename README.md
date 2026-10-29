@@ -1,6 +1,6 @@
 # Reto Hospital San Gabriel — De registros a datos
 
-**Informática Médica · Semana 14 · Actividad individual · 150 minutos**
+**Informática Médica · Semana 12 · Actividad individual.**
 
 > **Datos 100 % ficticios.** No subas datos de pacientes reales a GitHub.
 
