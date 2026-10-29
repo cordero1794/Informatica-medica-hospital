@@ -42,6 +42,4 @@
 
 **Registro 20:** Paciente P020, masculino, 50 años. 29 de octubre de 2026. Dolor de cabeza. Temperatura 37,3 °C, frecuencia cardiaca 90, saturación 97 %. Diagnóstico simulado: cefalea. Pendiente.
 
----
 
-**Advertencia:** no inventes valores para mediciones ausentes ni uses datos de pacientes reales.
